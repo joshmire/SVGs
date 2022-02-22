@@ -1,2 +1,2 @@
 # SVGs
-Scalable Vector Graphics
+Scalable Vector Graphics created by Joshua Mire
